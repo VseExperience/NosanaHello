@@ -1,0 +1,5 @@
+public static void main(String[] args) {
+  System.out.println("Hello nosana");
+  boolean loveNosana = true;
+  if(loveNosana) System.our.println("I love Nosana, take me for testing!");
+}
